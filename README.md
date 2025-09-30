@@ -1,4 +1,9 @@
-# 🤖 CryptoBuddy  
+# # 🤖 CryptoBuddy  
+
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)  
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/lucilla22/CryptoBuddy)](https://github.com/lucilla22/CryptoBuddy/commits/main)  
+[![GitHub stars](https://img.shields.io/github/stars/lucilla22/CryptoBuddy?style=social)](https://github.com/lucilla22/CryptoBuddy/stargazers)  
 
 CryptoBuddy is a friendly chatbot that helps you explore cryptocurrencies by combining **real-time market data (CoinGecko API)** with **NLP-powered queries** for trends, profitability, and sustainability. 🌍💰  
 
@@ -20,3 +25,4 @@ CryptoBuddy is a friendly chatbot that helps you explore cryptocurrencies by com
 ```bash
 git clone https://github.com/lucilla22/CryptoBuddy.git
 cd CryptoBuddy
+
