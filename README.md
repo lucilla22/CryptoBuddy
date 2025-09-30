@@ -20,6 +20,12 @@ CryptoBuddy is a friendly chatbot that helps you explore cryptocurrencies by com
 ---
 
 ## 🚀 Setup Guide  
+## 📸 Screenshot
+
+Here’s CryptoBuddy in action:
+
+![CryptoBuddy Screenshot](screenshot.png)
+
 
 ### 1. Clone the repository  
 ```bash
